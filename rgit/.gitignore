@@ -1,0 +1,5 @@
+#ignoririvat vse file s logami
+*.log
+
+#ignorirovat konkretniy file
+secret.env
