@@ -1,0 +1,2 @@
+echo 'system cleared'
+clear
