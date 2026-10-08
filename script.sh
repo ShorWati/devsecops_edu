@@ -1,3 +1,3 @@
-!#/bin/bash
+#!/bin/bash
 echo "1234567"
 pwd
